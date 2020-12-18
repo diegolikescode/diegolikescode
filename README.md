@@ -1,10 +1,11 @@
-## Hello there :octocat:
+## Hello there :milky_way:
 
-#### :arrow_right: 
-#### :arrow_right: 
-#### :arrow_right: 
-#### :arrow_right: 
-#### :mailbox_with_mail: How to reach me: I'll be by the Batphone if you need to get a hold.
+####  :alien: I’m currently working on my NodeJS backend (design patterns, good practices, unit tests and communications using Web Sockets) and DevOps (just the basics about process and I/O management, Docker, Kubernetes and basic server configuration)
+#### 🧠 I am currently learning better ways to structure my code. I also practice my Javascript daily and learning more about Ethereum for later use.
+####  :octocat: I'm looking to collaborate on cryptocurrency and javascript implementations, i would prefer find a Ethereum + Typescript project than a purple horn unicorn :unicorn:
+#### :thinking: I’m looking for help with CSS. Is my weak spot, especially as a backend developer, but i'm intended to learn the basic about flexbox and grid
+#### :mailbox_with_mail: How to reach me: I'll be by the Batphone if you need to get a hold. :movie_camera: :vhs:
+
 <!--
 **DiegoPrestesGit/DiegoPrestesGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-<img src="https://www.buybitcoinworldwide.com/pages/shitcoins/ethereum/img/ethereum-wallet.png" style="height:50px;width:50px;">
