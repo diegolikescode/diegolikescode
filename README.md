@@ -5,7 +5,7 @@
 #### :octocat: I'm looking to collaborate on Blockchain technology, I would prefer find a Blockchain project than a purple horn unicorn :unicorn: :thinking:
 #### :mailbox_with_mail: How to reach me: I'll be by the Batphone if you need to get a hold. :movie_camera: :vhs: 🦇☎️
 
-*> you can change what you do but you can't change what you want*
+*you can change what you do but you can't change what you want*
 <!--
 **DiegoPrestesGit/DiegoPrestesGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
