@@ -1,8 +1,8 @@
 ## Hello there :milky_way:
 
-#### :alien: I’m currently working on Javascript/Typescript and searching knowledge in Blockchain
-#### 🧠 I'm currently learning better ways to structure my code. I also practice my Javascript daily and learning more about Blockchain.
-#### :octocat: I'm looking to collaborate on Blockchain, I would prefer find a Blockchain project than a purple horn unicorn :unicorn: :thinking:
+#### :alien: I’m currently working on Javascript/Typescript and searching knowledge in Blockchain, I'm currently seeking enough knowledge to build a simple Blockchain from scratch. 🤔
+#### 🧠 I'm currently learning better ways to structure my code. I also practice my Javascript daily in my work and learning more about Blockchain, especially peer to peer protocols.
+#### :octocat: I'm looking to collaborate on Blockchain technology, I would prefer find a Blockchain project than a purple horn unicorn :unicorn: :thinking:
 #### :mailbox_with_mail: How to reach me: I'll be by the Batphone if you need to get a hold. :movie_camera: :vhs: 🦇☎️
 
 <!--
