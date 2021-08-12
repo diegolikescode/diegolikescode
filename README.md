@@ -1,4 +1,4 @@
-## Hello there :space_invader
+## Hello there :space_invader:
 
 #### :alien: I'm currently seeking enough knowledge to build a simple blockchain from scratch. 🤔
 
