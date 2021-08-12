@@ -2,7 +2,7 @@
 
 #### :alien: I'm currently seeking enough knowledge to build a simple blockchain from scratch. 🤔
 
-#### :octocat:🧠 Learning blockchain and peer to peer protocols
+#### :octocat: Learning blockchain and peer to peer protocols 🧠
 
 #### :mailbox_with_mail: Reach me at
 
