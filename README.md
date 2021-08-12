@@ -1,6 +1,6 @@
 ## Hello there :milky_way
 
-#### :alien: I'm currently seeking enough knowledge to build a simple Blockchain from scratch. 🤔
+#### :alien: I'm currently seeking enough knowledge to build a simple blockchain from scratch. 🤔
 
 #### :octocat:🧠 Learning blockchain and peer to peer protocols
 
