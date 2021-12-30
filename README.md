@@ -9,7 +9,7 @@
 - doing some [Arduino](https://www.arduino.cc/) stuff for my mom 🤖;
 
 ### BIO
-☠️
+
 - 🏢 currently working at **IBM, inside Banco do Brasil's Innovations Team**
 - 🌍 trying to be more active within the **open-source world**
 - 🌱 learning all about **open-source**
