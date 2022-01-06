@@ -5,7 +5,7 @@
 ### NOW
 
 - 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
-- :octocat: Planning projects for next year :octocat:;
+- :octocat: developing my blockchain project for the college :octocat:;
 - doing some [Arduino](https://www.arduino.cc/) stuff for my mom 🤖;
 
 ### BIO
