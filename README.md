@@ -36,6 +36,7 @@
 
 - e-mail: diegoprestes.git@hotmail.com
 - linkedin: [Diego Prestes](https://www.linkedin.com/in/diegoprestesgit/)
+- twitter: [@diegolikescode](https://twitter.com/diegolikescode)
 - discord: nightcall#7978
 - and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
  
