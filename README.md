@@ -14,7 +14,7 @@
 - 🏢 currently working at **IBM, inside Banco do Brasil's Innovations Team**
 - 🌍 trying to be more active within the **open source world**
 - 🌱 learning all about **open source**
-- 💬 ping me for **full-stack web-development**, **open source stuff**, **compilers, emulators** and **jack daniels**
+- 💬 ping me for **full-stack web-development**, **open source stuff**, **compilers and emulators**
 - ☠️ nice fact: always listening to [synthwave](https://open.spotify.com/playlist/4IZQI4bDH0XozhY977QzfG?si=2237bc197adb453b) or some [old school heavy metal](https://open.spotify.com/playlist/6Bhs6vLGVW0mauk2jwhBGR?si=78a9d08046f7494f) 👾☠️
 
 ### STUFF THAT I USE
