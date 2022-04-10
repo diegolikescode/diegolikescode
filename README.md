@@ -26,6 +26,7 @@
   <img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
+  <img alt="OCaml" width="30px" src="https://drive.google.com/uc?export=view&id=1mz6fzbi8BDk0VlQ2Yj4gOJF3Sq6B12ze">
   <img alt="arduino stuff" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
   <img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">
   <img alt="Ganache" width="30px" src="https://i.imgur.com/ov9HZqW.png">
