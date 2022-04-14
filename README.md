@@ -28,6 +28,7 @@
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
   <img alt="OCaml" width="30px" src="https://symbols.getvecta.com/stencil_90/6_ocaml-icon.50081e3cb9.svg">
   <img alt="arduino stuff" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
+  <img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
 </div>
 
 ### :mailbox_with_mail: reach me at
