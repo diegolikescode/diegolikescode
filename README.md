@@ -28,9 +28,6 @@
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
   <img alt="OCaml" width="30px" src="https://symbols.getvecta.com/stencil_90/6_ocaml-icon.50081e3cb9.svg">
   <img alt="arduino stuff" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
-  <img alt="Solidity" width="30px" src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">
-  <img alt="Ganache" width="30px" src="https://i.imgur.com/ov9HZqW.png">
-  <img alt="Truffle" width="30px" src="https://i.imgur.com/FwrL4tz.png">
 </div>
 
 ### :mailbox_with_mail: reach me at
