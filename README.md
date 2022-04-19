@@ -6,7 +6,6 @@
 
 - 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
 - :octocat: developing my college project :octocat:;
-- doing some [Arduino](https://www.arduino.cc/) stuff for my mom 🤖;
 - looking for some cool programming events to join in 2022 💻🎧📕;
 
 ### BIO
@@ -28,7 +27,6 @@
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
   <img alt="OCaml" width="30px" src="https://symbols.getvecta.com/stencil_90/6_ocaml-icon.50081e3cb9.svg">
   <img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-  <img alt="arduino stuff" width="30px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
   <img alt="docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
   <img alt="kubernetes" width="30px" src="https://sdtimes.com/wp-content/uploads/2017/01/0118.sdt-kubernetes.png">
 </div>
