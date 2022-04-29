@@ -11,7 +11,7 @@
 ### BIO
 
 - 🏢 currently working at **IBM, inside Banco do Brasil's Innovations Team**
-- I'm not self-taught, indian people tutorials on YouTube taught me all I know 
+- 🤔 I'm not self-taught, indian people tutorials on YouTube taught me all I know 🇮🇳
 - 🌍 trying to be more active within the **open source world**
 - 🌱 learning all about **open source**
 - 💬 ping me for **full-stack web-development**, **open source stuff**, **compilers and emulators**
