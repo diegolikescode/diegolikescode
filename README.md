@@ -1,6 +1,6 @@
 ## hey hey people, Diego here 👾
 
-#### Full-Stack Developer at IBM, working from home at my birth town: Floripa 🏖️
+#### Application Developer at IBM, working from home at my birth town: Floripa 🏖️
 
 ### NOW
 
