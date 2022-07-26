@@ -26,7 +26,7 @@
   <img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
-  <img alt="OCaml" width="30px" src="https://symbols.getvecta.com/stencil_90/6_ocaml-icon.50081e3cb9.svg">
+  <img alt="OCaml" width="30px" src="https://seeklogo.com/images/O/ocaml-logo-0A315B8C65-seeklogo.com.png">
   <img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
   <img alt="AWS" width="50px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">
   <img alt="docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
