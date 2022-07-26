@@ -25,7 +25,7 @@
   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Typescript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img  alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img  alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png">
+  <img  alt="Angular" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png">
   <img alt="bash script" width="30px" src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto/gigs/104330715/original/cb963e50fcd1b69aafb9ffa3bf2f6e83d9a905ac.png">
   <img alt="OCaml" width="30px" src="https://seeklogo.com/images/O/ocaml-logo-0A315B8C65-seeklogo.com.png">
   <img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
