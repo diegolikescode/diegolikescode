@@ -2,6 +2,8 @@
 
 #### Application Developer at IBM, working from home at my birth town: Floripa 🏖️
 
+<img alt="Git" src="./git_assets/scary-movie.gif">
+
 ### NOW
 
 - 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
