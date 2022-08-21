@@ -2,7 +2,7 @@
 
 #### Application Developer at IBM, working from home at my birth town: Floripa 🏖️
 
-<img alt="Git" src="./git_assets/scary-movie.gif">
+<img src="https://pixeljoint.com/files/icons/full/torikae2.gif">
 
 ### NOW
 
