@@ -1,6 +1,6 @@
 ## hey hey people, Diego here 👾
 
-#### Application Developer at IBM, working from home at my birth town: Floripa 🏖️
+#### Application Developer at IBM, working from home at my birth town: Anor Londo
 
 <img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
 
