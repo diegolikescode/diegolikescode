@@ -1,8 +1,8 @@
 ## hey hey people, Diego here 👾
 
-#### Application Developer at IBM, working from home at my birth town: Anor Londo
+#### Application Developer at IBM, working from home at my birth town: Groovy Land
 
-<img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif">
+<img src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif">
 
 ### NOW
 
