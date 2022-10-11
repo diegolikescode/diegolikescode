@@ -2,7 +2,7 @@
 
 #### Application Developer at IBM, working from home at my birth town: Groovy Land
 
-<img src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/cc856b68455153.5b5de6a91a32b.gif">
 
 ### NOW
 
