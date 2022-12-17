@@ -8,7 +8,7 @@
 
 - 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
 - :octocat: developing a recommender system for final college project :octocat:;
-- looking for some cool programming events to join in 2022 💻🎧📕;
+- making 2023 count since 2022 💻🎧📕;
 
 ### BIO
 
