@@ -16,7 +16,7 @@
 - 🤔 I'm not self-taught, indian people tutorials on YouTube taught me all I know 🇮🇳
 - 🌍 messin' around to find out
 - 🌱 learning all about **open source**
-- 💬 ping me for **full-stack web-development**, **open source stuff**, **compilers and emulators**
+- 💬 ping me for **web-development**, **open source stuff** and **machine learning (specially recommender systems)**
 - ☠️ nice fact: always listening to [synthwave](https://open.spotify.com/playlist/4IZQI4bDH0XozhY977QzfG?si=2237bc197adb453b) or some [old school heavy metal](https://open.spotify.com/playlist/6Bhs6vLGVW0mauk2jwhBGR?si=78a9d08046f7494f) 👾☠️
 
 ### STUFF THAT I USE
