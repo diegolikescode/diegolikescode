@@ -1,21 +1,20 @@
 ## hey hey people, Diego here 👾
 
 #### Application Developer at IBM, working from home at my birth town
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/cc856b68455153.5b5de6a91a32b.gif">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9681c698-a17e-4bfb-a563-b4752541a28d/deuovcs-90c70923-0dda-458e-b054-d6397914571e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ODFjNjk4LWExN2UtNGJmYi1hNTYzLWI0NzUyNTQxYTI4ZFwvZGV1b3Zjcy05MGM3MDkyMy0wZGRhLTQ1OGUtYjA1NC1kNjM5NzkxNDU3MWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MenWUEh8D_-IuYLpM4S20UqQcUND6lf1TcLtQbtdAI0">
 
 ### NOW
 
 - 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
-- :octocat: developing a recommender system for final college project :octocat:;
-- making 2023 count since 2022 💻🎧📕;
+- :octocat: developing a recommender system for the final college project :octocat:;
+- going after 2023 since 2022 💻📕;
 
 ### BIO
 
 - 🏢 currently working at **IBM, inside Banco do Brasil's Innovations Team**
-- 🤔 I'm not self-taught, indian people tutorials on YouTube taught me all I know 🇮🇳
+- 🤔 always reading and practicing lots of philosophy 
 - 🌍 messin' around to find out
-- 🌱 learning all about **open source**
+- 🌱 learning a lot about machine learning
 - 💬 ping me for **web-development**, **open source stuff** and **machine learning (specially recommender systems)**
 - ☠️ nice fact: always listening to [synthwave](https://open.spotify.com/playlist/4IZQI4bDH0XozhY977QzfG?si=2237bc197adb453b) or some [old school heavy metal](https://open.spotify.com/playlist/6Bhs6vLGVW0mauk2jwhBGR?si=78a9d08046f7494f) 👾☠️
 
