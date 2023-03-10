@@ -1,6 +1,6 @@
 ## hey hey people, Diego here 👾
 
-#### Application Developer at IBM, working from home at my birth town: Groovy Land
+#### Application Developer at IBM, working from home at my birth town
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/cc856b68455153.5b5de6a91a32b.gif">
 
