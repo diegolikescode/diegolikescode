@@ -6,7 +6,7 @@
 
 ### NOW
 
-- 🌽🌱 crafting the [Agrobot App](https://www.bb.com.br/pbb/pagina-inicial/agronegocios/agronegocio---produtos-e-servicos/aplicativos-agro/agrobot#/) with React-Native 🍑;
+- 💀🍎 building stuff with multiple teams in **Banco do Brasil** as consultant 🍑;
 - :octocat: developing a recommender system for the final college project :octocat:;
 - going after 2023 since 2022 💻📕;
 
