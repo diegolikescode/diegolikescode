@@ -1,7 +1,8 @@
 ## hey hey people, Diego here 👾
 
-#### Application Developer at IBM, working from home at my birth town
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9681c698-a17e-4bfb-a563-b4752541a28d/deuovcs-90c70923-0dda-458e-b054-d6397914571e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ODFjNjk4LWExN2UtNGJmYi1hNTYzLWI0NzUyNTQxYTI4ZFwvZGV1b3Zjcy05MGM3MDkyMy0wZGRhLTQ1OGUtYjA1NC1kNjM5NzkxNDU3MWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MenWUEh8D_-IuYLpM4S20UqQcUND6lf1TcLtQbtdAI0">
+#### Application Developer at IBM
+
+<img src="https://wallpaperaccess.com/full/8881418.gif">
 
 ### NOW
 
