@@ -1,4 +1,4 @@
-## hey hey people, Diego here 👾
+## hey hey people, Diego here ( ◡̀_◡́)ᕤ
 
 <img align='right' src='./git_assets/cool-animation.gif' width='200'>
 
