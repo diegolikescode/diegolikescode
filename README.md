@@ -8,7 +8,7 @@
 * linkedin: [Diego Prestes](https://www.linkedin.com/in/diegolikescode/)
 * twitter: [@diegolikescode](https://twitter.com/diegolikescode)
 * discord: diegolikescode
-* portfolio: <a href="[URL](https://diegolikescode.me)" target="_blank">diegolikescode.me</a>
+* portfolio: <a href="https://diegolikescode.me" target="_blank">diegolikescode.me</a>
 * and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
 <p align='center'>
   <img align='' src="git_assets/nice-house.gif">
