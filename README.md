@@ -4,7 +4,7 @@
 
 ### :mailbox_with_mail: reach me at
 
-* e-mail: diegoprestes.git@hotmail.com
+* e-mail: diegolikescode@hotmail.com
 * linkedin: [Diego Prestes](https://www.linkedin.com/in/diegolikescode/)
 * twitter: [@diegolikescode](https://twitter.com/diegolikescode)
 * discord: diegolikescode
