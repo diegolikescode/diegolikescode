@@ -5,8 +5,8 @@
 ### :mailbox_with_mail: reach me at
 
 * e-mail: diegolikescode@hotmail.com
-* linkedin: [Diego Prestes](https://www.linkedin.com/in/diegolikescode/)
-* twitter: [@diegolikescode](https://twitter.com/diegolikescode)
+* linkedin: <a href="https://www.linkedin.com/in/diegolikescode/" target="_blank">Diego Prestes</a>
+* twitter: <a href="https://twitter.com/diegolikescode" target="_blank">diegolikescode</a>
 * discord: diegolikescode
 * portfolio: <a href="https://diegolikescode.me" target="_blank">diegolikescode.me</a>
 * and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
