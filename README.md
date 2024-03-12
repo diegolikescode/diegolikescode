@@ -10,6 +10,6 @@
 * discord: diegolikescode
 * portfolio: <a href="https://diegolikescode.me" target="_blank">diegolikescode.me</a>
 * and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
-<p align='center'>
-  <img align='' width="auto" height="240" src="git_assets/spaceship.gif">
+<p align='right'>
+  <img align='' width="auto" height="200" src="git_assets/jinxed.gif">
 <p>
