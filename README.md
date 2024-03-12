@@ -1,6 +1,6 @@
 ## hey hey people, Diego here ( ◡̀_◡́)ᕤ
 
-<img align='right' src='./git_assets/jinxed.gif' width='250'>
+<img align='right' src='./git_assets/jinx-riding-rocket.gif' width='auto'>
 
 ### :mailbox_with_mail: reach me at
 
