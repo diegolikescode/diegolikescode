@@ -11,5 +11,5 @@
 * portfolio: <a href="https://diegolikescode.me" target="_blank">diegolikescode.me</a>
 * and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
 <p align='center'>
-  <img align='' src="git_assets/nice-house.gif">
+  <img align='' width="auto" height="300" src="git_assets/spaceship.gif">
 <p>
