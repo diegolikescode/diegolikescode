@@ -1,6 +1,6 @@
 ## hey hey people, Diego here ( ◡̀_◡́)ᕤ
 
-<img align='right' src='./git_assets/cool-animation.gif' width='200'>
+[coment]: <img align='right' src='./git_assets/anime-girl-m15.gif' width='200'>
 
 ### :mailbox_with_mail: reach me at
 
