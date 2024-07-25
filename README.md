@@ -25,8 +25,8 @@
         </li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
-      <img src="git_assets/astronaut.webp" width="auto" height="360">
+    <td style="vertical-align: top; border: none;">
+      <img src="git_assets/astronaut.webp" width="auto" height="260">
     </td>
   </tr>
 </table>
