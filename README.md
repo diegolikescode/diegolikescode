@@ -1,7 +1,7 @@
 ## hey hey people, Diego here ( ◡̀_◡́)ᕤ
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 10px;">
+<div style="position: relative; padding-right: 370px; /* Adjust as needed for space */">
+  <div style="position: relative; z-index: 1;">
     <h3>:mailbox_with_mail: reach me at</h3>
     <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 5px;">
@@ -24,7 +24,5 @@
       </li>
     </ul>
   </div>
-  <div>
-    <img src="git_assets/astronaut.webp" width="auto" height="360" style="display: block; margin-left: 10px;">
-  </div>
+  <img src="git_assets/astronaut.webp" width="auto" height="360" style="position: absolute; top: 0; right: 0;">
 </div>
