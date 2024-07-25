@@ -2,7 +2,7 @@
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="vertical-align: top; padding-right: 10px;">
+    <td style="vertical-align: top; padding-right: 10px; border: none;">
       <h3>:mailbox_with_mail: reach me at</h3>
       <ul style="list-style-type: none; padding-left: 0;">
         <li style="margin-bottom: 5px;">
