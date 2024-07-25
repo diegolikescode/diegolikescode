@@ -1,7 +1,7 @@
 ## hey hey people, Diego here ( ◡̀_◡́)ᕤ
 
-<table>
-  <tr>
+<table style="border: none;">
+  <tr style="border: none;">
     <td style="vertical-align: top; padding-right: 10px;">
       <h3>:mailbox_with_mail: reach me at</h3>
       <ul style="list-style-type: none; padding-left: 0;">
