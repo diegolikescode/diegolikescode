@@ -10,6 +10,7 @@
 * discord: diegolikescode
 * portfolio: <a href="https://diegolikescode.me" target="_blank">diegolikescode.me</a>
 * and I'll be by the Batphone if you need to get a hold :movie_camera: :vhs: 🦇 ☎️
-<p align='center'>
+<!-- <p align='center'>
   <img align='' width="auto" height="300" src="git_assets/madmax-interceptor-nobg.gif">
 <p>
+-->
